@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e266ecca-0c68-4088-988c-b9cf6a131496" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Check/Task_2-4-1_files.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python-projects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python-projects.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Check/Task_2-4-1_files.py" beforeDir="false" afterPath="$PROJECT_DIR$/Check/Task_2-4-1_files.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,8 +26,8 @@
       <file leaf-file-name="Task_2-4-1_files.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Check/Task_2-4-1_files.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="204">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -274,7 +272,14 @@
       <option name="project" value="LOCAL" />
       <updated>1524694986647</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Don't forget about push...">
+      <created>1524862000273</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1524862000273</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -653,8 +658,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Check/Task_2-4-1_files.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
